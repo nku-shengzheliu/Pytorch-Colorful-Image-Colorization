@@ -170,7 +170,6 @@ def main():
                 if step % args.print_freq == 0:
                     print_str = 'Epoch: [{0}][{1}/{2}]\t' \
                         'Loss {loss.val:.4f} ({loss.avg:.4f})\t' \
-                        'Accu {acc.val:.4f} ({acc.avg:.4f})\t' \
                         'vis_lr {vis_lr:.8f}\t' \
                         .format( \
                             epoch, batch_idx, len(train_loader), \
