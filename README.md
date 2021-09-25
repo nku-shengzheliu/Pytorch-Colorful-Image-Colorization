@@ -6,7 +6,7 @@ An unofficial pytorch implementation of "**Colorful image colorization**"
 
 paper: https://link.springer.com/chapter/10.1007/978-3-319-46487-9_40
 
-<img src="https://github.com/nku-shengzheliu/Pytorch-Colorful-Image-Colorization/blob/main/colornet.JPG" width = 60% height = 60% align=center/>
+<img src="https://github.com/nku-shengzheliu/Pytorch-Colorful-Image-Colorization/blob/master/colornet.JPG" width = 60% height = 60% align=center/>
 
 ## Performance
 
